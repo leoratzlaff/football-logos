@@ -1,6 +1,6 @@
-# Football Logos API
+# Football Badges API
 
-A simple REST API to serve football team logos from top European leagues. Contains PNG logos (139×181px) for teams in 25 European countries for the current season (2025/2026).
+A simple REST API to serve football team badges from top European leagues. Contains PNG badges (139×181px) for teams in 25 European countries for the current season (2025/2026).
 
 ## Quick Start
 
@@ -195,7 +195,7 @@ The API provides logos for teams from 25 European countries:
 
 ## Directory Structure
 
-- `logos/` - Current season logos (2025/2026) organized by country
+- `logos/` - Current season badges (2025/2026) organized by country
 - `src/` - Node.js/Express server code
   - `app.js` - Express application setup
   - `routes/logos.js` - API route handlers

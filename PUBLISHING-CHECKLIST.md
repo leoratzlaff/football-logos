@@ -1,6 +1,6 @@
 # Quick Publishing Checklist
 
-Follow this checklist to publish your Football Logos API to NPM, Docker Hub, and cloud hosting. **Or use jsDelivr CDN for instant free distribution over GitHub.**
+Follow this checklist to publish your Football Badges API to NPM, Docker Hub, and cloud hosting. **Or use jsDelivr CDN for instant free distribution over GitHub.**
 
 ## CDN Distribution via jsDelivr (0 minutes - INSTANT)
 
@@ -142,7 +142,7 @@ Choose ONE:
 - [ ] Go to GitHub → Your Repo → Releases
 - [ ] Click "Create a new release"
 - [ ] Tag: `v1.0.0`
-- [ ] Title: "Football Logos API v1.0.0"
+- [ ] Title: "Football Badges API v1.0.0"
 - [ ] Description: Paste your API features and usage
 - [ ] Publish
 

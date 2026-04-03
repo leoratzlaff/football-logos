@@ -12,7 +12,7 @@ app.use(express.json());
 app.get('/', (req, res) => {
   res.json({
     status: 'ok',
-    message: 'Football Logos API is running',
+    message: 'Football Badges API is running',
     endpoints: {
       health: 'GET /',
       logo: 'GET /api/:country/:team',

@@ -32,7 +32,7 @@ function testEndpoint(port, path, callback) {
   req.end();
 }
 
-console.log('🧪 Testing Football Logos API\n');
+console.log('🧪 Testing Football Badges API\n');
 
 // Test with port 3000 (or whichever port is running)
 const testPort = 3000;

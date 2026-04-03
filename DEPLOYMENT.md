@@ -1,6 +1,6 @@
 # Publishing & Deployment Guide
 
-This guide covers how to publish and deploy the Football Logos API.
+This guide covers how to publish and deploy the Football Badges API.
 
 ## Table of Contents
 
@@ -185,7 +185,7 @@ docker run -p 3000:3000 football-logos-api:latest
 2. **Go to GitHub** → Your Repo → Releases
    - Click "Create a release"
    - Select v1.0.0 tag
-   - Title: "Football Logos API v1.0.0"
+   - Title: "Football Badges API v1.0.0"
    - Description: Update history and usage
 
 3. **Users can install from GitHub**
