@@ -1,0 +1,29 @@
+# Git
+.git
+.gitignore
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Development
+.vscode/
+.idea/
+*.log
+.DS_Store
+
+# CI/CD
+.github/
+.gitlab-ci.yml
+.travis.yml
+
+# Documentation
+*.md
+CONTRIBUTING.md
+
+# Scripts
+rename-*.py
+rename-*.sh
+test-api.js

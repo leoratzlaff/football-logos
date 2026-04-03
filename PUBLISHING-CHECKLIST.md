@@ -1,14 +1,36 @@
 # Quick Publishing Checklist
 
-Follow this checklist to publish your Football Logos API to NPM, Docker Hub, and cloud hosting.
+Follow this checklist to publish your Football Logos API to NPM, Docker Hub, and cloud hosting. **Or use jsDelivr CDN for instant free distribution over GitHub.**
+
+## CDN Distribution via jsDelivr (0 minutes - INSTANT)
+
+✅ **Your logos are already on a global CDN via jsDelivr.** No setup needed—just push to GitHub.
+
+**URL Format:**
+```
+https://cdn.jsdelivr.net/gh/leoratzlaff/football-logos-api@latest/logos/[country]/[team].png
+```
+
+**Examples:**
+```
+https://cdn.jsdelivr.net/gh/leoratzlaff/football-logos-api@latest/logos/england/arsenal-fc.png
+https://cdn.jsdelivr.net/gh/leoratzlaff/football-logos-api@latest/logos/italy/juventus-fc.png
+```
+
+**Next Steps:**
+- [ ] Push code to GitHub
+- [ ] Share jsDelivr URLs with users
+- [ ] Optional: Tag releases with `git tag v1.0.0 && git push --tags` for versioned URLs
+
+---
 
 ## Pre-Publishing Setup
 
-- [ ] Update `package.json`:
-  - [ ] Fill in your GitHub username in repository URLs
-  - [ ] Update author name and email
-  - [ ] Verify version number (start with 1.0.0)
-  - [ ] Review keywords
+- [X] Update `package.json`:
+  - [X] Fill in your GitHub username in repository URLs
+  - [X] Update author name and email
+  - [X] Verify version number (start with 1.0.0)
+  - [X] Review keywords
 
 - [ ] Verify `.npmignore` excludes unnecessary files
 
