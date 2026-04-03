@@ -25,27 +25,27 @@ Don't want to run a server? Use jsDelivr to serve logos directly from GitHub—*
 **URL Format:**
 
 ```
-https://cdn.jsdelivr.net/gh/leoratzlaff/football-logos-api@latest/logos/[country]/[team].png
+https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@latest/logos/[country]/[team].png
 ```
 
 **Examples:**
 
 ```bash
 # Arsenal
-https://cdn.jsdelivr.net/gh/leoratzlaff/football-logos-api@latest/logos/england/arsenal-fc.png
+https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@latest/logos/england/arsenal-fc.png
 
 # Juventus
-https://cdn.jsdelivr.net/gh/leoratzlaff/football-logos-api@latest/logos/italy/juventus-fc.png
+https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@latest/logos/italy/juventus-fc.png
 
 # Real Madrid
-https://cdn.jsdelivr.net/gh/leoratzlaff/football-logos-api@latest/logos/spain/real-madrid.png
+https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@latest/logos/spain/real-madrid.png
 ```
 
 **Usage in HTML:**
 
 ```html
-<img src="https://cdn.jsdelivr.net/gh/leoratzlaff/football-logos-api@latest/logos/england/arsenal-fc.png" alt="Arsenal" />
-<img src="https://cdn.jsdelivr.net/gh/leoratzlaff/football-logos-api@latest/logos/italy/juventus-fc.png" alt="Juventus" />
+<img src="https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@latest/logos/england/arsenal-fc.png" alt="Arsenal" />
+<img src="https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@latest/logos/italy/juventus-fc.png" alt="Juventus" />
 ```
 
 **Version Control:**

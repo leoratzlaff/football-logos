@@ -23,11 +23,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/leoratzlaff/football-logos-api"
+    "url": "https://github.com/leoratzlaff/football-badges"
   },
-  "homepage": "https://github.com/leoratzlaff/football-logos-api#readme",
+  "homepage": "https://github.com/leoratzlaff/football-badges#readme",
   "bugs": {
-    "url": "https://github.com/leoratzlaff/football-logos-api/issues"
+    "url": "https://github.com/leoratzlaff/football-badges/issues"
   },
   "engines": {
     "node": ">=14.0.0"

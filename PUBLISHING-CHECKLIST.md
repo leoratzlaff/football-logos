@@ -8,13 +8,13 @@ Follow this checklist to publish your Football Logos API to NPM, Docker Hub, and
 
 **URL Format:**
 ```
-https://cdn.jsdelivr.net/gh/leoratzlaff/football-logos-api@latest/logos/[country]/[team].png
+https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@latest/logos/[country]/[team].png
 ```
 
 **Examples:**
 ```
-https://cdn.jsdelivr.net/gh/leoratzlaff/football-logos-api@latest/logos/england/arsenal-fc.png
-https://cdn.jsdelivr.net/gh/leoratzlaff/football-logos-api@latest/logos/italy/juventus-fc.png
+https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@latest/logos/england/arsenal-fc.png
+https://cdn.jsdelivr.net/gh/leoratzlaff/football-badges@latest/logos/italy/juventus-fc.png
 ```
 
 **Next Steps:**
