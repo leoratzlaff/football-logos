@@ -1,0 +1,129 @@
+{
+  "countries": [
+    {
+      "slug": "austria",
+      "folder": "austria",
+      "name": "Austria"
+    },
+    {
+      "slug": "belgium",
+      "folder": "belgium",
+      "name": "Belgium"
+    },
+    {
+      "slug": "bulgaria",
+      "folder": "bulgaria",
+      "name": "Bulgaria"
+    },
+    {
+      "slug": "croatia",
+      "folder": "croatia",
+      "name": "Croatia"
+    },
+    {
+      "slug": "czech-republic",
+      "folder": "czech-republic",
+      "name": "Czech Republic"
+    },
+    {
+      "slug": "denmark",
+      "folder": "denmark",
+      "name": "Denmark"
+    },
+    {
+      "slug": "england",
+      "folder": "england",
+      "name": "England"
+    },
+    {
+      "slug": "france",
+      "folder": "france",
+      "name": "France"
+    },
+    {
+      "slug": "germany",
+      "folder": "germany",
+      "name": "Germany"
+    },
+    {
+      "slug": "greece",
+      "folder": "greece",
+      "name": "Greece"
+    },
+    {
+      "slug": "israel",
+      "folder": "israel",
+      "name": "Israel"
+    },
+    {
+      "slug": "italy",
+      "folder": "italy",
+      "name": "Italy"
+    },
+    {
+      "slug": "netherlands",
+      "folder": "netherlands",
+      "name": "Netherlands"
+    },
+    {
+      "slug": "norway",
+      "folder": "norway",
+      "name": "Norway"
+    },
+    {
+      "slug": "poland",
+      "folder": "poland",
+      "name": "Poland"
+    },
+    {
+      "slug": "portugal",
+      "folder": "portugal",
+      "name": "Portugal"
+    },
+    {
+      "slug": "romania",
+      "folder": "romania",
+      "name": "Romania"
+    },
+    {
+      "slug": "russia",
+      "folder": "russia",
+      "name": "Russia"
+    },
+    {
+      "slug": "scotland",
+      "folder": "scotland",
+      "name": "Scotland"
+    },
+    {
+      "slug": "serbia",
+      "folder": "serbia",
+      "name": "Serbia"
+    },
+    {
+      "slug": "spain",
+      "folder": "spain",
+      "name": "Spain"
+    },
+    {
+      "slug": "sweden",
+      "folder": "sweden",
+      "name": "Sweden"
+    },
+    {
+      "slug": "switzerland",
+      "folder": "switzerland",
+      "name": "Switzerland"
+    },
+    {
+      "slug": "turkiye",
+      "folder": "turkiye",
+      "name": "Turkiye"
+    },
+    {
+      "slug": "ukraine",
+      "folder": "ukraine",
+      "name": "Ukraine"
+    }
+  ]
+}

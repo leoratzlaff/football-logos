@@ -1,0 +1,41 @@
+{
+  "name": "football-logos-api",
+  "version": "1.0.0",
+  "description": "A simple REST API to serve football team logos from 25 European countries",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "NODE_ENV=development node index.js"
+  },
+  "keywords": [
+    "football",
+    "soccer",
+    "logos",
+    "api",
+    "teams",
+    "sports",
+    "rest-api",
+    "express",
+    "european-football"
+  ],
+  "author": "Leonardo Ratzlaff <leoratzlaff@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leoratzlaff/football-logos-api"
+  },
+  "homepage": "https://github.com/leoratzlaff/football-logos-api#readme",
+  "bugs": {
+    "url": "https://github.com/leoratzlaff/football-logos-api/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1"
+  }
+}
+
